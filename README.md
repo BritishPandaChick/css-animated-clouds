@@ -1,11 +1,14 @@
 # CSS Animated Clouds
-CodePlayer Pure CSS3 Animated Clouds project. Made with HTML and CSS.
+Clouds move across the screen
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone this repo or download zip file. Open index.html file in your browser.
-
-## Contributions
-This code is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone this repo or download zip file. 
+2. Open index.html file in your browser.
+3. The clouds will start moving across the screen from right to left.
 
 ## Acknowledgements
 * TheCodePlayer.com
